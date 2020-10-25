@@ -1,0 +1,7 @@
+keyfile.sh
+keyfile.json 
+.terraform
+terraform.tfstate
+terraform.tfstate.backup
+history
+demo-user.pem
